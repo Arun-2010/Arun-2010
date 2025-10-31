@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm B.ARUN</h1>
-<h3 align="center">A passionate flutter and block chain developer</h3>
+<h3 align="center">A passionate block chain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-2010&label=Profile%20views&color=0e75b6&style=flat" alt="arun-2010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-2010" alt="arun-2010" /></a> </p>
 
-- 🌱 I’m currently learning **Block chain,flutter**
+- 🌱 I’m currently learning **Block chain**
 
 - 📫 How to reach me **arunbandari15@gmail.com**
 
