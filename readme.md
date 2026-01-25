@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here.png" alt="Profile Image" width="600" height="600" />
+  <img src="image.png" alt="Profile Image" width="600" height="600" />
 </p>
 <h1 align="center">Hi 👋, I'm B.ARUN</h1>
 <h3 align="center">A passionate block chain developer</h3>
