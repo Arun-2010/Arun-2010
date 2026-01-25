@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image.png" alt="Profile Image" width="600" height="300" />
-</p>
+
 <h1 align="center">Hi 👋, I'm B.ARUN</h1>
 <h3 align="center">A passionate block chain developer</h3>
 
