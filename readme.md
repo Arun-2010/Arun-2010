@@ -1,6 +1,11 @@
 <p align="center">
   <img src="image.PNG" alt="Profile Image" width="800" height="800" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arun-2010&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm B.ARUN</h1>
 <h3 align="center">A passionate block chain developer</h3>
 
