@@ -27,10 +27,11 @@
     <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,ai,mongodb,mysql,nextjs" />
   </a>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,express,graphql,js,solidity,vscode,rust,ts,kafka,react,flutter,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,express,graphql,js,solidity,vscode,rust,ts,kafka,react,flutter,nodejs,figma&theme=light)](https://skillicons.dev)
   
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-2010&show_icons=true&locale=en&layout=compact" alt="arun-2010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-2010&show_icons=true&locale=en" alt="arun-2010" /></p>
+<p align="left"> 
+* *  o o  ^ ^  - -  x x   
+\_/  \_/  ___  \_/  ___ 
+<p align="center">
