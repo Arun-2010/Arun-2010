@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
   </a>
 
-  
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
   
  </p>
 
