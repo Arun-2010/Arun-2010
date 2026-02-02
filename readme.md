@@ -20,14 +20,14 @@
 <a href="https://linkedin.com/in/arun bandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun bandari" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">[![My Skills]:</h3>
 
 <p align="left"> <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
   </a>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c.cpp,express,react,flutter,nodejs,figma&theme=light)](https://skillicons.dev)
   
  </p>
 
