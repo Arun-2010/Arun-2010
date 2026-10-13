@@ -27,9 +27,9 @@
 ```python
 class Arun:
     roles = [
-        "🤖 AI Engineer",          # priority #1
-        "💻 Full Stack Developer",  # priority #2
-        "⛓️ Blockchain Developer",  # priority #3
+        "🤖 AI Engineer",          
+        "💻 Full Stack Developer",  
+        "⛓️ Blockchain Developer",  
     ]
     building  = ["LLM apps", "RAG pipelines", "AI agents"]
     stack     = ["Python", "TypeScript", "Next.js", "Rust"]
@@ -38,13 +38,6 @@ class Arun:
     def motto(self):
         return "Train it. Ship it. Put it on-chain."
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="image.PNG" alt="Arun" width="300" />
-
-</td>
 </tr>
 </table>
 
